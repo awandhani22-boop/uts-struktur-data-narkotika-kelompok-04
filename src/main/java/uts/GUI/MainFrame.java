@@ -10,8 +10,8 @@ import uts.logika.MergeSort;
 import uts.logika.Pencarian;
 import uts.logika.ValidatorPutusan;
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
-import uts.struktur.StackBuatan;
+import uts.Struktur.SinglyLinkedList;
+import uts.Struktur.StackBuatan;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

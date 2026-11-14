@@ -1,7 +1,7 @@
 package uts.io;
 
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import java.io.BufferedWriter;
 import java.io.File;

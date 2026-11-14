@@ -1,7 +1,7 @@
 package uts.logika;
 
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 public final class Pencarian {
 

@@ -2,7 +2,7 @@ package uts.io;
 
 import uts.logika.ValidatorPutusan;
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,7 +1,7 @@
 package uts.gui;
 
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.Locale;

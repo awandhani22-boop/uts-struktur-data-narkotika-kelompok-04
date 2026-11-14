@@ -1,7 +1,7 @@
 package uts.logika;
 
 import uts.struktur.Pembanding;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 public class MergeSort<T> {
 

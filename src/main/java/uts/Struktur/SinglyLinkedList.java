@@ -1,6 +1,6 @@
 package uts.Struktur;
 
-public class SinglyLinkedList<T> implements StrukturData<T> {
+public class SinglyLinkedList<T> implements uts.struktur.StrukturData<T> {
 
     private static class Node<T> {
         T data;
@@ -71,7 +71,7 @@ public class SinglyLinkedList<T> implements StrukturData<T> {
         size = 0;
     }
 
-    public int indexOf(Kondisi<T> k) {
+    public int indexOf(uts.struktur.Kondisi<T> k) {
         langkahTerakhir = 0;
         Node<T> cur = head;
         int i = 0;

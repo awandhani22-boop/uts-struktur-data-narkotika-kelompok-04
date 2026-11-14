@@ -1,6 +1,6 @@
 package uts.Struktur;
 
-public class StackBuatan<T> implements StrukturData<T> {
+public class StackBuatan<T> implements uts.struktur.StrukturData<T> {
 
     private Object[] data = new Object[8];
     private int top = 0;
@@ -34,7 +34,7 @@ public class StackBuatan<T> implements StrukturData<T> {
         return (T) data[top - 1 - i];
     }
 
-    public int searchPreserve(Kondisi<T> k) {
+    public int searchPreserve(uts.struktur.Kondisi<T> k) {
         StackBuatan<T> tmp = new StackBuatan<>();
         int res = -1;
         int d = 0;
