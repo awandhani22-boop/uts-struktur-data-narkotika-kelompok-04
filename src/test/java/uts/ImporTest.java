@@ -1,5 +1,3 @@
-package uts;
-
 import org.junit.jupiter.api.Test;
 import uts.io.CsvImporter;
 import uts.io.ImportResult;

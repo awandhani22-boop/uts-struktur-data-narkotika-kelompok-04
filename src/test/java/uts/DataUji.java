@@ -1,5 +1,3 @@
-package uts;
-
 import uts.model.Putusan;
 
 import java.time.LocalDate;

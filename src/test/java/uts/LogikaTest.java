@@ -1,5 +1,3 @@
-package uts;
-
 import org.junit.jupiter.api.Test;
 import uts.logika.Agregasi;
 import uts.logika.FilterPutusan;

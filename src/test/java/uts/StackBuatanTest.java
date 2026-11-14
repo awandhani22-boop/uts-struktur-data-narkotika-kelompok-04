@@ -1,5 +1,3 @@
-package uts.struktur;
-
 public class StackBuatan<T> implements StrukturData<T> {
 
     private Object[] data = new Object[8];
