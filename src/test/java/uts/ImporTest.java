@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import uts.io.CsvImporter;
 import uts.io.ImportResult;
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -5,7 +5,7 @@ import uts.logika.KriteriaFilter;
 import uts.logika.MergeSort;
 import uts.logika.Pencarian;
 import uts.model.Putusan;
-import uts.struktur.SinglyLinkedList;
+import uts.Struktur.SinglyLinkedList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
